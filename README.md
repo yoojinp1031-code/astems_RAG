@@ -9,6 +9,7 @@ This project was developed for internal use at **[Astems](http://astems.co.kr/ho
 ## 🛠️ Development Environment
 - **Vector DB**: PostgreSQL Vector DB on Docker Container
 - **LLM**: OpenAI API
+- **Main Language**: Korean
 
 ---
 ## 📦 Dependencies
