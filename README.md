@@ -7,6 +7,23 @@
 - **LLM**: OpenAI API
 
 ---
+## 📦 Dependencies
+
+| Package | Usage |
+|---------|-------|
+| `langchain` | RAG pipeline framework |
+| `langchain-openai` | OpenAI LLM & Embeddings |
+| `langchain-postgres` | PGVector integration |
+| `langchain-google-genai` | Google Gemini LLM & Embeddings |
+| `langchain-community` | Document loaders, retrievers |
+| `psycopg2` | PostgreSQL connector |
+| `pandas` | Excel data preprocessing |
+| `python-dotenv` | Environment variable management |
+| `PyMuPDF` | PDF loading |
+| `tqdm` | Progress bar |
+| `requests` | API calls |
+---
+
 
 ## 🎯 Project Overview
 
