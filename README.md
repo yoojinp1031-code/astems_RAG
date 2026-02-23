@@ -47,7 +47,7 @@ The chatbot retrieves relevant AS records and generates context-aware explanatio
 | File | Description |
 |------|-------------|
 | `SI_AS_Embedding` | Processes and refines AS records from Excel files, generates metadata, and embeds them into the vector DB |
-| `SI_AS_Simple` | Naive RAG implementation |
+| `SI_AS_Simple` | Naive RAG implementation and max marginal relevance search |
 | `SI_AS_Ensemble` | Hybrid Retriever combining vector search and full-text search (PostgreSQL Full Text Retriever). Used for performance evaluation across OpenAI models |
 | `SI_AS_RAG_TimeW` | Time Weighted Re-ranking Retriever |
 | `SI_AS_SelfQuerying` | Two-stage LLM pipeline that filters and refines user queries before retrieval |
