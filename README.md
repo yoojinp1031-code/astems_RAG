@@ -4,7 +4,7 @@
 
 ## 🏢 About Astems
 
-This project was developed for internal use at **[Astems]([https://www.astems.co.kr/home/main/Astems_main.php3](http://astems.co.kr/home_en/main/Astems_main.php3))**.
+This project was developed for internal use at **[Astems](http://astems.co.kr/home_en/main/Astems_main.php3)**.
 
 ## 🛠️ Development Environment
 - **Vector DB**: PostgreSQL Vector DB on Docker Container
