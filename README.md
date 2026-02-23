@@ -2,6 +2,10 @@
 
 > A collection of RAG (Retrieval-Augmented Generation) implementations for an internal chatbot at Astems, designed to assist with After-Service (AS) record retrieval and explanation.
 
+## 🏢 About Astems
+
+This project was developed for internal use at **[Astems](https://www.astems.co.kr/home/main/Astems_main.php3)**.
+
 ## 🛠️ Development Environment
 - **Vector DB**: PostgreSQL Vector DB on Docker Container
 - **LLM**: OpenAI API
